@@ -17,5 +17,12 @@ python hello.py
 ```
 
 You should see the following output:
+![image](https://user-images.githubusercontent.com/69941161/175075934-8891aa3a-9abd-47e5-add4-e754aac17bf2.png)
 
+*Please note the author's setup required the running of python as "python3". Your setup might differ depending on how python was installed.*
+
+
+Congratulations you just ran your first python program. That was easy right? 
+
+Let's walk through what is happening under the hood. This is often skipped over by most courses and 
 
