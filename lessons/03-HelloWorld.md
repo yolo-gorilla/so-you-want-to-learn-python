@@ -1,4 +1,4 @@
-## 03 The Basics 
+## 03 Hello World
 ## Learn the basic building blocks of the python programing language
 
 ### Hello world
