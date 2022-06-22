@@ -24,5 +24,17 @@ You should see the following output:
 
 Congratulations you just ran your first python program. That was easy right? 
 
-Let's walk through what is happening under the hood. This is often skipped over by most courses and 
+Let's walk through what is happening under the hood. This is often skipped over by most courses and tutorials. 
+### The extra stuff you don't need to know
+
+Your terminal (The black screen with white text) is a very direct way of working on your computer. 
+In the hello world example, you ran "python" as the program that was executing with "hello.py" as the parameter. 
+
+This is because python is an interpreted language. This means that it requires a program to convert your program into actual machine code (think 1s and 0s) on the fly.
+The python binary is passed the name of the file to run "hello.py". This is then converted to machine code and executed in your computers memory. 
+
+When running scripts directly from the terminal as such, you need to make sure you are in the same directory as the scripts you are trying to run.
+We will get more in depth on the filesystem on later parts of this course. 
+
+
 
